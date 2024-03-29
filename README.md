@@ -1,5 +1,5 @@
 # ChatGPT Roleplay Datase (CRD)
-This repository hosts the dataset associated with our paper titled "ChatGPT Role-play Dataset: Analysis of User Motives and Model Naturalness". Our work has been accepted for presentation at the LREC-COLING 2024 conference.
+This repository hosts the dataset associated with our paper titled "[ChatGPT Role-play Dataset: Analysis of User Motives and Model Naturalness](https://arxiv.org/abs/2403.18121)". Our work has been accepted for presentation at the LREC-COLING 2024 conference.
 
 ## Dataset Overview
 - vanilla.csv: Represents the interactions without specific role-play instructions.
@@ -13,4 +13,11 @@ We express our thanks to the anonymous reviewers and the members of the PortNLP 
 
 ## Citation
 Please cite our work as follows:
-Coming soon
+```
+@article{tao2024chatgpt,
+  title={ChatGPT Role-play Dataset: Analysis of User Motives and Model Naturalness},
+  author={Tao, Yufei and Agrawal, Ameeta and Dombi, Judit and Sydorenko, Tetyana and Lee, Jung In},
+  journal={arXiv preprint arXiv:2403.18121},
+  year={2024}
+}
+```
